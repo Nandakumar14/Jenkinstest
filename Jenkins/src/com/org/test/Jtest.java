@@ -16,7 +16,9 @@ public class Jtest {
 		case 'u':System.out.println("vowel");
 		break;
 		default: System.out.println("not in vowels");
-		System.out.println("check in vowels");		
+			
+				
+				
 		}
 	}
 
